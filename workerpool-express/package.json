@@ -1,0 +1,15 @@
+{
+    "name": "workerpool-express",
+    "version": "1.0.0",
+    "description": "Testing workerpool library using express",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Matheus Patrick",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "workerpool": "^6.2.1"
+    }
+}
